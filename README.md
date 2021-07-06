@@ -5,7 +5,7 @@
 
 # Application Links
 
-Deployed URL ->(https://the-socials1.herokuapp.com/)
+Deployed URL ->[https://github.com/Avibtb](https://the-socials1.herokuapp.com/)
 <br>
 API Docs -> 
 
