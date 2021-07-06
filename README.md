@@ -9,8 +9,32 @@ Deployed URL ->[https://the-socials1.herokuapp.com/](https://the-socials1.heroku
 <br>
 API Docs -> 
 
+# Tech Stack
 
-### User can
+<b>Frontned</b>: Reactjs
+<br>
+<b>Additional NPM Libraries</b>
+  - react-toastify
+  - react-router-dom
+  - react-router-bootstrap
+  - react-password-mask
+  - react-bootstrap
+  - axios
+  - Redux
+  - React hooks
+ 
+<br>
+<b>Styling</b>: CSS and BootStrap
+<br>
+<b>Database</b>: MongoDB
+<br>
+<b>Authentication and Authorisation</b>:JWT
+<br>
+<b>Storing Images</b>: Cloudify
+<br>
+<b>Deployment</b>: CI/CD setup using GitHub Actions via Heroku
+
+# Overall Functionlity
 - Login/Register
 - Edit profile
 - Follow / Unfollow
