@@ -12,7 +12,9 @@
 - Share link
 - Like comments 
 - Reply to comments
-- 
+- Upload single or multiple photos
+- Can turn profile to dark
+- Will get realtime notification
 
 ### Technical Exposure
 - Node.js
