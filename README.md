@@ -26,6 +26,8 @@ API Docs ->
 <br>
 <b>Styling</b>: CSS and BootStrap
 <br>
+<b>Realtime Communication<b>: Socket.io
+<br>
 <b>Database</b>: MongoDB
 <br>
 <b>Authentication and Authorisation</b>:JWT
@@ -46,20 +48,6 @@ API Docs ->
 - Upload single or multiple photos
 - Can turn profile to dark
 - Will get realtime notification
-
-### Technical Exposure
-- Node.js
-- Expressjs
-- MongoDB
-- Bootstrap
-- Reactjs
-- React hooks
-- React toastify
-- Redux
-- CI/CD Pipline
-- JWT Authentication
-- Socket.io
-
 
 
 ## Install dependencies for server 
