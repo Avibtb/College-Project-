@@ -2,6 +2,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Avibtb)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Avibtb) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Avibtb)
 
+The Socials is a highly scalable, free of cost and high performant one stop solution to:
+- Connect to the world through digital media.
+- Exchange the intellectual words.
+- Express your thoughts.
 
 # Application Links
 
@@ -69,6 +73,9 @@ API Docs ->
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
+  
+
+***Glad to see you here! Show some love by [starring](https://github.com/Avibtb/College-Project-) this repo.***
 
 
 
