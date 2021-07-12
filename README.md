@@ -11,7 +11,7 @@ The Socials is a highly scalable, free of cost and high performant one stop solu
 
 Deployed URL ->[https://the-socials1.herokuapp.com/](https://the-socials1.herokuapp.com/)
 <br>
-API Docs -> 
+
 
 # Tech Stack
 
